@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Covenant-Cards/precache-manifest.0fbbad2d10abb4ae948d200b064b3cf8.js"
+  "/Covenant-Cards/precache-manifest.26a2a922c456608bcd944d9b55c47672.js"
 );
 
 self.addEventListener('message', (event) => {

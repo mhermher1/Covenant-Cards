@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Covenant-Cards/static/css/main.49ca8e89.chunk.css",
-    "main.js": "/Covenant-Cards/static/js/main.bf4c8570.chunk.js",
-    "main.js.map": "/Covenant-Cards/static/js/main.bf4c8570.chunk.js.map",
-    "runtime-main.js": "/Covenant-Cards/static/js/runtime-main.c73cb297.js",
-    "runtime-main.js.map": "/Covenant-Cards/static/js/runtime-main.c73cb297.js.map",
-    "static/js/2.a873544b.chunk.js": "/Covenant-Cards/static/js/2.a873544b.chunk.js",
-    "static/js/2.a873544b.chunk.js.map": "/Covenant-Cards/static/js/2.a873544b.chunk.js.map",
-    "static/js/3.a5527501.chunk.js": "/Covenant-Cards/static/js/3.a5527501.chunk.js",
-    "static/js/3.a5527501.chunk.js.map": "/Covenant-Cards/static/js/3.a5527501.chunk.js.map",
+    "main.js": "/Covenant-Cards/static/js/main.14fe4b8e.chunk.js",
+    "main.js.map": "/Covenant-Cards/static/js/main.14fe4b8e.chunk.js.map",
+    "runtime-main.js": "/Covenant-Cards/static/js/runtime-main.15624763.js",
+    "runtime-main.js.map": "/Covenant-Cards/static/js/runtime-main.15624763.js.map",
+    "static/js/2.a1c556d6.chunk.js": "/Covenant-Cards/static/js/2.a1c556d6.chunk.js",
+    "static/js/2.a1c556d6.chunk.js.map": "/Covenant-Cards/static/js/2.a1c556d6.chunk.js.map",
+    "static/js/3.bcd2506f.chunk.js": "/Covenant-Cards/static/js/3.bcd2506f.chunk.js",
+    "static/js/3.bcd2506f.chunk.js.map": "/Covenant-Cards/static/js/3.bcd2506f.chunk.js.map",
     "index.html": "/Covenant-Cards/index.html",
-    "precache-manifest.0fbbad2d10abb4ae948d200b064b3cf8.js": "/Covenant-Cards/precache-manifest.0fbbad2d10abb4ae948d200b064b3cf8.js",
+    "precache-manifest.26a2a922c456608bcd944d9b55c47672.js": "/Covenant-Cards/precache-manifest.26a2a922c456608bcd944d9b55c47672.js",
     "service-worker.js": "/Covenant-Cards/service-worker.js",
     "static/css/main.49ca8e89.chunk.css.map": "/Covenant-Cards/static/css/main.49ca8e89.chunk.css.map",
-    "static/js/2.a873544b.chunk.js.LICENSE.txt": "/Covenant-Cards/static/js/2.a873544b.chunk.js.LICENSE.txt"
+    "static/js/2.a1c556d6.chunk.js.LICENSE.txt": "/Covenant-Cards/static/js/2.a1c556d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c73cb297.js",
-    "static/js/2.a873544b.chunk.js",
+    "static/js/runtime-main.15624763.js",
+    "static/js/2.a1c556d6.chunk.js",
     "static/css/main.49ca8e89.chunk.css",
-    "static/js/main.bf4c8570.chunk.js"
+    "static/js/main.14fe4b8e.chunk.js"
   ]
 }
